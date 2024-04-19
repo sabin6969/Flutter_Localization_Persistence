@@ -1,4 +1,4 @@
-# Project Name: Flutter Localization with Persistence
+# Flutter Localization with Persistence
 
 ## Description
 This Flutter project demonstrates how to implement localization (supporting multiple languages) with persistence, allowing users to select their preferred language and have the app remember their choice across sessions.
