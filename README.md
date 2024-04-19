@@ -1,16 +1,17 @@
-# flutter_localization_persistence
+# Project Name: Flutter Localization with Persistence
 
-A new Flutter project.
+## Description
+This Flutter project demonstrates how to implement localization (supporting multiple languages) with persistence, allowing users to select their preferred language and have the app remember their choice across sessions.
 
-## Getting Started
+## Features
+1. **Localization Support:** The app supports multiple languages, including English and one additional language (e.g., Spanish, French, German).
+2. **Language Selection:** Users can choose their preferred language from a list of available languages.
+3. **Persistence:** The selected language preference is persisted locally, ensuring that the app remembers the user's choice across sessions.
+4. **Easy Integration:** The project demonstrates a straightforward integration of localization and persistence, making it easy for developers to implement similar functionality in their Flutter apps.
 
-This project is a starting point for a Flutter application.
+## Setup
+1. Clone the repository to your local machine.
+2. Ensure you have Flutter installed. If not, follow the instructions on [Flutter's official website](https://flutter.dev/docs/get-started/install).
+3. Navigate to the project directory and run `flutter pub get` to install dependencies.
+4. Run the app on an emulator or physical device using `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
