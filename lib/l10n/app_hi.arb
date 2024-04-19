@@ -1,0 +1,11 @@
+{
+    "hello":"नमस्ते",
+    "helloWorld":"हैलो वर्ल्ड",
+    "search":"खोज",
+    "areYouSureToDeleteThisItem":"क्या आप निश्चित रूप से इस आइटम को हटाना चाहते हैं?",
+    "welcome":"स्वागत",
+    "selectLanguageOfYourChoice":"अपनी पसंद की भाषा चुनें",
+    "delete":"हटाएं",
+    "yes":"हाँ",
+    "no":"नहीं"
+}
