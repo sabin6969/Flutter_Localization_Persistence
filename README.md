@@ -4,7 +4,7 @@
 This Flutter project demonstrates how to implement localization (supporting multiple languages) with persistence, allowing users to select their preferred language and have the app remember their choice across sessions.
 
 ## Features
-1. **Localization Support:** The app supports multiple languages, including English and one additional language (e.g., Spanish, French, German).
+1. **Localization Support:** The app supports multiple languages, including English and one additional language (e.g:English,Nepali,Hindi).
 2. **Language Selection:** Users can choose their preferred language from a list of available languages.
 3. **Persistence:** The selected language preference is persisted locally, ensuring that the app remembers the user's choice across sessions.
 4. **Easy Integration:** The project demonstrates a straightforward integration of localization and persistence, making it easy for developers to implement similar functionality in their Flutter apps.
